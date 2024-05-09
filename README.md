@@ -8,6 +8,9 @@
 [Check The Project Right Here](https://phase-2-code-challenge-bot-battlr-nine.vercel.app/)
 
 
+https://github.com/jahfaro/Phase-2-Code-Challenge-Bot-Battlr/assets/162970198/24bb3b45-cbb8-479e-a96c-c937c589bb4e
+
+
 ## Description
 Bot Command Center is a web application designed to manage a collection of bots and assemble them into a powerful bot army. With a sleek and intuitive user interface, users can explore a diverse range of bots, each with unique abilities and characteristics, and strategically enlist them into their army.
 
