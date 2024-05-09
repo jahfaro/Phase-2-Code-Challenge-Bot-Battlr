@@ -8,7 +8,8 @@
 [Check The Project Right Here](https://phase-2-code-challenge-bot-battlr-nine.vercel.app/)
 
 
-https://github.com/jahfaro/Phase-2-Code-Challenge-Bot-Battlr/assets/162970198/24bb3b45-cbb8-479e-a96c-c937c589bb4e
+
+https://github.com/jahfaro/Phase-2-Code-Challenge-Bot-Battlr/assets/162970198/c195c409-c20b-4ae5-abfa-97bdcf5ef6fa
 
 
 ## Description
